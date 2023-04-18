@@ -1,6 +1,6 @@
 body {
     background: blue;
-    
-  }
+    link: document.querySelector("body").appendChild(h2);
+      }
   
   
