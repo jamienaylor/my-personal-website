@@ -1,6 +1,5 @@
 body {
     background: blue;
-    document.querySelector("body").appendChild(h2);
       }
   
   
